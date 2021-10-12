@@ -1,4 +1,4 @@
-# Time_series_project
+# Time series project
 
 Here is a time series project using the data from Keras website.
 
