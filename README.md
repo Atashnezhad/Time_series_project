@@ -3,7 +3,7 @@
 Here is a time series project using the data from Keras website.
 
 <p align="center">
-  <img width="2000" src="Figures/P03_01_ARIMATemp_esti_72ahead.png" >
+  <img width="2000" src="Figures/GIF.gif" >
  <img width="2000" src="Figures/P03_01_ARIMATemp_esti_720ahead.png" >
 </p>
 
