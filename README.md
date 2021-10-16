@@ -2,9 +2,10 @@
 
 Here is a time series project using the data from Keras website.
 
+## AR and ARIMA models
 <p align="center">
+  <img width="2000" src="Figures/AR_GIF.gif" >
   <img width="2000" src="Figures/GIF.gif" >
- <img width="2000" src="Figures/P03_01_ARIMATemp_esti_720ahead.png" >
 </p>
 
 
