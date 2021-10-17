@@ -27,5 +27,5 @@ Here is a time series project using the data from Keras website.
 </p>
 
 
-AR and ARIMA models typically are well for short-term forecasting. These models auto regression part 
+AR and ARIMA models typically are well for short-term forecasting. The auto regression part of these models
 converge to the mean of data for long-term forecasting.
