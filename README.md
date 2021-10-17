@@ -38,3 +38,14 @@ Using the LSTM model, the user would be able to analyze the temperature time ser
 
 AR and ARIMA models typically are well for short-term forecasting. The auto regression part of these models
 converge to the mean of data for long-term forecasting.
+
+
+## LSTM model
+
+<p align="center">
+  <img width="2000" src="Figures/P03_02_LSTM_GIF.gif" >
+</p>
+
+
+
+
