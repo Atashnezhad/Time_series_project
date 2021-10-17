@@ -5,6 +5,9 @@ The goal of this repository is to develop a model for temperature prediction usi
 The analysis began by studying whether the temperature data set is stationary or not. The data is available from the keras website example for time series and users can easily download it through url connection specified in the code P01_01_Data part of this repository.
 
 
+Using the LSTM model, the user would be able to analyze the temperature time series data for any number of timestamps in the future while still considering the lags information. Also, the LSTM model or any ML algorithm is able to consider more than one-time series data at the same time for analysis, unlike the classical methods.
+
+
 
 
 
