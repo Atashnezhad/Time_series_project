@@ -30,7 +30,7 @@ Using the LSTM model, the user would be able to analyze the temperature time ser
 </p>
 -->
 
-## AR models at four different lag timesl - short term forcasting
+## AR models at four different lag times - short term forcasting
 <p align="center">
   <img width="2000" src="Figures/P03_02_AR_GIF.gif" >
 </p>
