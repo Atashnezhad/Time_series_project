@@ -25,3 +25,7 @@ Here is a time series project using the data from Keras website.
 <p align="center">
   <img width="2000" src="Figures/P03_02_AR_GIF.gif" >
 </p>
+
+
+AR and ARIMA models typically are well for short-term forecasting. These models auto regression part 
+converge to the mean of data for long-term forecasting.
