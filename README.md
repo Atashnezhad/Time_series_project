@@ -1,11 +1,12 @@
 # Time series project
 
-The goal of this repository is to develop a model for temperature prediction using both classical and modern tools for time series analysis. The classical models including Auto Regression (AR) and Auto Regression Integrated Moving Average (ARIMA) are selected for temperature modeling. The Long Short Term Memory (LSTM) is a modern tool for dealing with time series type of data and is used in this study.
+The goal of this repository is to develop a model for temperature prediction using both classical and modern tools. The classical models including Auto Regression (AR) and Auto Regression Integrated Moving Average (ARIMA) are applied for time series modeling. The Long Short Term Memory (LSTM) is a modern tool to deal with time-series data.
 
-The analysis began by studying whether the temperature data set is stationary or not. The data is available from the keras website example for time series and users can easily download it through url connection specified in the code P01_01_Data part of this repository.
+The data is available from the ```Keras website Example``` in the time series section and users can easily download it through url connection specified in the code P01_01_Data part of this repository.
 
+In the EDA part, the data is analyzed to answer the question of whether the temperature data set is stationary or not. This is important from classical modeling (AR and ARIMA) point of view.
 
-Using the LSTM model, the user would be able to analyze the temperature time series data for any number of timestamps in the future while still considering the lags information. Also, the LSTM model or any ML algorithm is able to consider more than one-time series data at the same time for analysis, unlike the classical methods.
+Using the LSTM model, the user would be able to analyze the temperature time series data for any number of timestamps in the future while still considering the lags information. Also, the LSTM model or any ML algorithm is able to consider more than one-time series data at the same time for analysis, unlike the classical methods (mostly univariate approch).
 
 
 
