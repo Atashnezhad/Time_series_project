@@ -1,8 +1,8 @@
 # Time series project
 
-The goal of this repository is to develop a model for temperature prediction using both classical and modern tools. The classical models including Auto Regression (AR) and Auto Regression Integrated Moving Average (ARIMA) are applied for time series modeling. The Long Short Term Memory (LSTM) is a modern tool to deal with time-series data.
+The goal of this repository is to develop a model for temperature prediction using both classical and modern tools. The classical models including Auto Regression (AR) and Auto Regression Integrated Moving Average (ARIMA) are common for time series modeling. The Long Short Term Memory (LSTM) is a modern tool to deal with time-series data.
 
-The data is available from the ```Keras website Example``` in the time series section and users can easily download it through url connection specified in the code P01_01_Data part of this repository.
+The data is available from the ```Keras website Example``` in the time series section [here](https://keras.io/examples/timeseries/) and users can easily download it through url connection specified in the code P01_01_Data part of this repository.
 
 In the EDA part, the data is analyzed to answer the question of whether the temperature data set is stationary or not. This is important from classical modeling (AR and ARIMA) point of view.
 
