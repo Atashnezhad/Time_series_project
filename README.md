@@ -48,5 +48,9 @@ converge to the mean of data for long-term forecasting.
 </p>
 
 
+## LSTM Temperature forecast for 12 hours ahead results
+<p align="center">
+  <img width="2000" src="Figures/P03_03_LSTM_Multivariate_LSTM12HoursAhead.png" >
+</p>
 
 
