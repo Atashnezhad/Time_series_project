@@ -54,3 +54,5 @@ converge to the mean of data for long-term forecasting.
 </p>
 
 
+
+activate env : [env](https://www.youtube.com/watch?v=8AhIs6yI6Sc&t=324s)
